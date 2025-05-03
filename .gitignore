@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+
+# Python packaging artifacts
+*.egg-info/
+*.egg
+dist/
+build/
