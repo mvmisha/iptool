@@ -12,3 +12,38 @@ __pycache__/
 *.egg
 dist/
 build/
+
+
+# macOS metadata
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# PyCharm project files
+.idea/
+
+# Jupyter Notebook checkpoints (if you ever use them)
+.ipynb_checkpoints/
+
+# pipenv and poetry virtual env folders
+pipenv.lock
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Test coverage reports
+htmlcov/
+coverage.xml
+.cache/
+
+# MyPy / type checker
+.mypy_cache/
+
+# Pytest cache
+.pytest_cache/
