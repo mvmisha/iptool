@@ -1,0 +1,10 @@
+[project]
+name = "iptool"
+version = "0.1.0"
+description = "Fun CLI tool to get info about IPs"
+authors = [{name = "Misha"}]
+dependencies = ["requests", "rich"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
